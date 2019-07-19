@@ -19,8 +19,11 @@ print(django.get_version())
 django-admin help
 
 # ==========
+
 django-admin startproject project-name
+
 cd project-name/
+
 # ==========
 
 $ ls -->> manage.py; project-name (folder)

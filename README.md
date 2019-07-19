@@ -5,10 +5,10 @@ pip3 install django==2.2.1
 git clone https://github.com/django/django.git 
 
 ... To test Django installation :
->>> import django
->>> django.VERSION
+import django
+django.VERSION
 ... (2, 0, 0, 'final', 0)
->>> print(django.get_version())
+print(django.get_version())
 
 django-admin help
 
